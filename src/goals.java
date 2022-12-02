@@ -1,4 +1,4 @@
-
+/*Jowayne Anderson, 620150840 */
 public class goals {
 
 	String name;

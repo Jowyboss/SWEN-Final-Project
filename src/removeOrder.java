@@ -1,3 +1,5 @@
+/*Tristan Eunick, 620148693 */
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
